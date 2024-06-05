@@ -1,0 +1,16 @@
+/* styles */
+
+.black, .yellow {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.black {
+    background-color: #000;
+    color: #fff;
+    font-weight: 700;
+}
+
+.yellow {
+    background-color: yellow;
+}
