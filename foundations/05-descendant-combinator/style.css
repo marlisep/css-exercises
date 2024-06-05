@@ -1,0 +1,16 @@
+/* Add styles */
+/* Styles can be added by chaining type selectors (div,p) or classes */
+
+/* div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
